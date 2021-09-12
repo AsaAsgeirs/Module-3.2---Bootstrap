@@ -1,8 +1,8 @@
 # Module-3.2---Bootstrap
 
 I watched the Bootstrap tutorial and made the same website at first.
-Then I played around with diffrent codes from Bootstrap to change the website until I was pleased with it.
-I used white and gray colors to make the website clean and light, making the watches be the main part of the page.
+ Then I played around with diffrent codes from Bootstrap to change the website until I was pleased with it.
+ I used white and gray colors to make the website clean and light, making the watches be the main part of the page.
 
 <-- Navbar -->
 the navbar is stuck to the top of the page when you scroll down so it is easy to access and it is transparent(opacity 75%) so it won't distract you while you are scrolling down.
